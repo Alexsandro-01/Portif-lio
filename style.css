@@ -1,0 +1,28 @@
+body {
+    background-color: #dfdfdf;
+}
+
+img {
+    border-radius: 10px;
+}
+
+h1 {
+    color: #01385e;
+    font-family: georgia, serif;
+}
+
+.sobre {
+    font-family: Helvetica, sans-serif;
+}
+
+strong {
+    color: #01385e;
+}
+
+ul li{ 
+    line-height: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+}
